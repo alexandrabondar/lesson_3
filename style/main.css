@@ -67,8 +67,8 @@ h3 {
 
 .background_prototypes {
     background-image: url(../img/background_prototypes.png);
-    background-repeat: no-repeat;
     width: 1440px;
+    background-repeat: no-repeat;
 }
 
 .download_prototypes {
